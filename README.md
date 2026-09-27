@@ -25,6 +25,8 @@ Use Riham Blogs' [Text Analyzer](https://cigarettesprettysmokes.pages.dev/analyz
 **3. Can I use "Lorem Ipsum" commercially?**<br>Yes, the source passage used for generation is in the public domain, and this web page doesn't require attribution for generated text content.
  
 ## Desktop Preview
- 
+<img width="2208" height="1112" alt="IMG_4533" src="https://github.com/user-attachments/assets/8ec176e8-4a50-43b2-8257-c97711834ce4" />
+
 ## Mobile Preview
- 
+<img width="1242" height="2089" alt="IMG_4532" src="https://github.com/user-attachments/assets/73d0f5f9-80ef-489b-a984-c0f66adf3e2c" />
+
